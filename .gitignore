@@ -1,0 +1,5 @@
+legacy/*
+dist/*
+build/*
+logo.ico
+main.spec
