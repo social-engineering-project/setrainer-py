@@ -14,7 +14,7 @@ class SocialEngineeringTrainer(CTk):
                 file.write(LOGO)
             self.iconbitmap("logo.ico")
         
-        self.title("Тренажер защиты от социальной инженерии")
+        self.title("Осторожно: манипулятор")
         
         # Настройка темы
         set_appearance_mode("dark")
